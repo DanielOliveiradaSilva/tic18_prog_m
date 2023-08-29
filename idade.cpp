@@ -11,6 +11,7 @@ int main(void){
         objeto em um programa é chamado de definição de váriavel
      */
     cin >> idade;
+   
     /*O nome Cin refere-se ao fluxo de 
     entrada padrão */
 
